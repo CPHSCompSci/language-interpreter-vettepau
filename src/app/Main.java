@@ -1,3 +1,10 @@
+/*
+*Paul Vetter
+*Mr. Ewbank
+*APCS A - Period 5
+*October 9, 2019
+*/
+
 package app;
 
 import java.util.Scanner;
